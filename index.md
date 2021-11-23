@@ -11,17 +11,12 @@ For current staff profile - https://research.kent.ac.uk/defaunation/46-2/
 Prior to joining DICE, she undertook her Masters in Environmental Management at the University of Salford investigating the impacts of habitat fragmentation on bats in the Amazon. During her studies she has collaborated on projects investigating the effects of land-use change in Central & South America, Asia, and Western Europe. 
 
 
-
-She is also part of the editorial board for the [Journal of Bat Research & Conservation](https://secemu.org/en/journal-of-bat-research-and-conservation/overview/#:~:text=The%20Journal%20of%20Bat%20Research,possible%20perspectives%20and%20author%20interests.) and is a keen member of the Women in Conservation Canterbury Network. She also works as a part-time research consultant focusing on diversity in academia. 
+She is part of the editorial board for the [Journal of Bat Research & Conservation](https://secemu.org/en/journal-of-bat-research-and-conservation/overview/#:~:text=The%20Journal%20of%20Bat%20Research,possible%20perspectives%20and%20author%20interests.) and is a keen member of the Women in Conservation Canterbury Network. She also works as a part-time research consultant focusing on diversity in academia. 
 
 Professional profiles
 
-- [GoogleScholar](https://scholar.google.co.uk/citations?user=OzMYYZkAAAAJ&hl=en) 
-- [Publons](https://publons.com/researcher/3336784/natalie-yoh/) 
 - [ResearchGate](https://www.researchgate.net/profile/Natalie-Yoh) 
 - [Twitter](https://twitter.com/TallyYoh)
 - [Orcid](https://orcid.org/0000-0002-6171-3800) - contact email provided
-
-
-
-![rsz_profile_pic3](https://user-images.githubusercontent.com/43967474/143014893-bdeceaba-3870-4dab-92fb-1f2bfd3879a6.jpg)
+- [Publons](https://publons.com/researcher/3336784/natalie-yoh/) - for reviewer record
+- [GoogleScholar](https://scholar.google.co.uk/citations?user=OzMYYZkAAAAJ&hl=en) - full publication list
