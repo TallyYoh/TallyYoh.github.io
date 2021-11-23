@@ -1,9 +1,9 @@
-#### Natalie is currently in the final year of her doctorate in Biodiversity Management at the University of Kent. ####
+**Natalie is currently in the final year of her doctorate in Biodiversity Management at the University of Kent**
 
 ![Visual_Resume](https://user-images.githubusercontent.com/43967474/143039589-15b9a7d1-6cd0-4e09-a5a6-9793944e124a.png)
-_Zoom: open image in new tab_
+###### _Zoom: open image in new tab_ ######
 
-Her work focuses on improving acoustic monitoring methods for tropical species, and using this approach to monitor responses to land-use change. For her thesis, she has focused on bat responses to palm oil and logging across Borneo and using machine learning to automate bat monitoring in this region. This research is funded by the [NERC EnvEast DTP](https://www.ukri.org/councils/nerc/career-and-skills-development/nerc-studentships/responsive-training/nerc-doctoral-training-partnerships-dtp/doctoral-training-partnerships-1/) under the supervision of **Dr Matthew Struebig** and **Dr Jake Bicknell**, as part of the **Leverhulme Tropical Defaunation Hub**. 
+Her work focuses on improving acoustic monitoring methods for tropical species, and using this approach to monitor responses to land-use change. For her thesis, she has focused on bat responses to palm oil and logging across Borneo and using machine learning to automate bat monitoring in this region. This research is funded by the [NERC EnvEast DTP](https://www.ukri.org/councils/nerc/career-and-skills-development/nerc-studentships/responsive-training/nerc-doctoral-training-partnerships-dtp/doctoral-training-partnerships-1/) under the supervision of  **Dr Matthew Struebig** and **Dr Jake Bicknell**, as part of the **Leverhulme Tropical Defaunation Hub**. 
 
 **For current staff profile** - [https://research.kent.ac.uk/defaunation/46-2/](https://research.kent.ac.uk/defaunation/46-2/)
 
@@ -12,7 +12,7 @@ Prior to joining DICE, she undertook her Masters in Environmental Management at 
 
 She is part of the editorial board for the [Journal of Bat Research & Conservation](https://secemu.org/en/journal-of-bat-research-and-conservation/overview/#:~:text=The%20Journal%20of%20Bat%20Research,possible%20perspectives%20and%20author%20interests.) and is a keen member of the Women in Conservation Canterbury Network. She also works as a part-time research consultant focusing on diversity in academia. 
 
-#### Professional profiles ####
+**Professional profiles**
 
 - [ResearchGate](https://www.researchgate.net/profile/Natalie-Yoh) 
 - [Twitter](https://twitter.com/TallyYoh)
