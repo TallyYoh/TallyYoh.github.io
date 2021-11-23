@@ -3,7 +3,7 @@
 
 Natalie is currently in the final year of her doctorate in Biodiversity Management at the University of Kent. 
 
-![My image Name](/assets/images/profile_small.jpg)
+![My image Name](/assets/images/profile_small.jpg){: .align-right}
 
 Her work focuses on improving acoustic monitoring methods for tropical species, and using this approach to monitor responses to land-use change. For her thesis, she has focused on bat responses to palm oil and logging across Borneo and using machine learning to automate bat monitoring in this region. This research is funded by the [NERC EnvEast DTP](https://www.ukri.org/councils/nerc/career-and-skills-development/nerc-studentships/responsive-training/nerc-doctoral-training-partnerships-dtp/doctoral-training-partnerships-1/) under the supervision of Dr Matthew Struebig and Dr Jake Bicknell, as part of the Leverhulme Tropical Defaunation Hub. 
 
