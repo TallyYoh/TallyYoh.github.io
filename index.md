@@ -1,6 +1,6 @@
-**Natalie is currently a postdoctoral researcher at the Sound Forest Lab at Sustainability and the Global Environment Research Center (SAGE), University of Wisconin-Madison. 
+**Natalie is currently a postdoctoral researcher at the Sound Forest Lab at Sustainability and the Global Environment Research Center (SAGE), University of Wisconin-Madison.** 
 
-Her work focuses on improving acoustic monitoring methods for tropical species using machine learning and applying these techniques to monitor species' responses to land-use change.** 
+**Her work focuses on improving acoustic monitoring methods for tropical species using machine learning and applying these techniques to monitor species' responses to land-use change.** 
 
 ![Visual_Resume](https://user-images.githubusercontent.com/43967474/143039589-15b9a7d1-6cd0-4e09-a5a6-9793944e124a.png)
 ###### _Zoom: open image in new tab_ ######
