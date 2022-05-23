@@ -1,4 +1,6 @@
-**Natalie is currently a postdoctoral researcher at the Sound Forest Lab at Sustainability and the Global Environment Research Center (SAGE), University of Wisconin-Madison. Her work focuses on improving acoustic monitoring methods for tropical species and using this applying these techniques to monitor species' responses to land-use change.** 
+**Natalie is currently a postdoctoral researcher at the Sound Forest Lab at Sustainability and the Global Environment Research Center (SAGE), University of Wisconin-Madison. 
+
+Her work focuses on improving acoustic monitoring methods for tropical species using machine learning and applying these techniques to monitor species' responses to land-use change.** 
 
 ![Visual_Resume](https://user-images.githubusercontent.com/43967474/143039589-15b9a7d1-6cd0-4e09-a5a6-9793944e124a.png)
 ###### _Zoom: open image in new tab_ ######
@@ -13,8 +15,8 @@ She is part of the editorial board for the [Journal of Bat Research & Conservati
 
 **Professional profiles**
 
-- [ResearchGate](https://www.researchgate.net/profile/Natalie-Yoh) - full publication list
+- [ResearchGate](https://www.researchgate.net/profile/Natalie-Yoh) 
 - [Twitter](https://twitter.com/TallyYoh)
-- [Orcid](https://orcid.org/0000-0002-6171-3800) - contact email provided
-- [Publons](https://publons.com/researcher/3336784/natalie-yoh/) - for reviewer record
+- [Orcid](https://orcid.org/0000-0002-6171-3800) 
+- [Publons](https://publons.com/researcher/3336784/natalie-yoh/) 
 
