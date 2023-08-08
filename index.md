@@ -1,7 +1,8 @@
 **Natalie is currently a postdoctoral researcher at the Durrell Institute for Conservation & Ecology (DICE), University of Kent.**
+
 Her current work focuses on wildmeat consumption in urban tropical Africa, led by *Dr Dan Ingram* and in collaboration with the [WILDMEAT Project](https://www.wildmeat.org/). 
 
-![Rhinolophus trifoliatus](https://github.com/TallyYoh/TallyYoh.github.io/blob/main/Trefoil%20Horseshoe%20bat%20(Rhinolophus%20trifoliatus).jpg)
+![Rhinolophus trifoliatus][(https://github.com/TallyYoh/TallyYoh.github.io/blob/main/Trefoil%20Horseshoe%20bat%20(Rhinolophus%20trifoliatus).jpg)]
 
 Prior to this position, she worked as a postdoctoral researcher in the [*Sound Forest Lab*](https://www.soundforestlab.org/) at the *Sustainability and the Global Environment Research Center (SAGE), University of Wisconsin-Madison* with *Dr Zuzana Burivalova*. In this role, she investigated how we can use time-series and other statistical approaches to assess how disturbances such as logging and hunting impact soundscapes in Gabon.  
 
