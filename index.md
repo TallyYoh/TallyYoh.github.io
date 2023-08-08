@@ -1,13 +1,15 @@
-**Natalie is currently a postdoctoral researcher at the Sound Forest Lab at Sustainability and the Global Environment Research Center (SAGE), University of Wisconin-Madison.** 
+**Natalie is currently a postdoctoral researcher at the Durrell Institute for Conservation & Ecology (DICE), University of Kent. **
 
-Her work focuses on improving acoustic monitoring methods for tropical species using machine learning and applying these techniques to monitor species' responses to land-use change.
+Her current work focuses on wildmeat consumption in urban tropical Africa, led by *Dr Dan Ingram* and in collaboration with the [WILDMEAT Project](https://www.wildmeat.org/). 
 
 ![Visual_Resume](https://user-images.githubusercontent.com/43967474/143039589-15b9a7d1-6cd0-4e09-a5a6-9793944e124a.png)
 ###### _Zoom: open image in new tab_ ######
 
+Prior to this position, she worked as a postdoctoral researcher in the [*Sound Forest Lab*](https://www.soundforestlab.org/) at the *Sustainability and the Global Environment Research Center (SAGE), University of Wisconsin-Madison* with *Dr Zuzana Burivalova*. In this role, she investigated how we can use time-series and other statistical approaches to assess how disturbances such as logging and hunting impact soundscapes in Gabon.  
+
 Her PhD research focused on how bats respond to land-use change across Borneo, using machine learning to automate bat monitoring in this region. This research was funded by the [Natural Environment Research Council (NERC) EnvEast Doctoral Training Partnership](https://www.ukri.org/councils/nerc/career-and-skills-development/nerc-studentships/responsive-training/nerc-doctoral-training-partnerships-dtp/doctoral-training-partnerships-1/) under the supervision of *Dr Matthew Struebig* and *Dr Jake Bicknell*, as part of the *Leverhulme Tropical Defaunation Hub, Durrell Institute of Conservation & Ecology (DICE), University of Kent*. 
 
-Prior to joining DICE, she undertook her Masters in Environmental Management at the University of Salford investigating the impacts of habitat fragmentation on bats in the Amazon. During her studies she has collaborated on projects investigating the effects of land-use change in Central & South America, Asia, and Western Europe. 
+Prior to joining DICE, she undertook her Masters in Environmental Management at the University of Salford investigating the impacts of habitat fragmentation on bats in the Amazon. During her studies, she has collaborated on projects investigating the effects of land-use change in Central & South America, Asia, and Northern and Western Europe. 
 
 **Memberships/societies**
 
