@@ -1,5 +1,4 @@
-**Natalie is currently a postdoctoral researcher at the Durrell Institute for Conservation & Ecology (DICE), University of Kent. **
-
+**Natalie is currently a postdoctoral researcher at the Durrell Institute for Conservation & Ecology (DICE), University of Kent.**
 Her current work focuses on wildmeat consumption in urban tropical Africa, led by *Dr Dan Ingram* and in collaboration with the [WILDMEAT Project](https://www.wildmeat.org/). 
 
 ![Visual_Resume](https://user-images.githubusercontent.com/43967474/143039589-15b9a7d1-6cd0-4e09-a5a6-9793944e124a.png)
